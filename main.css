@@ -64,3 +64,15 @@ section {
   text-align: center;
   background-color: powderblue;
 }
+
+.people-card-container{
+  display: flex;
+  flex-flow: row wrap;
+  padding: 40px;
+}
+
+.people-card {
+  margin: 10px;
+  border: 1px solid goldenrod;
+  padding: 10px;
+}
